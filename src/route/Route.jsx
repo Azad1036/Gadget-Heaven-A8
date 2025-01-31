@@ -7,11 +7,13 @@ import Gadget from "../component/Gadget";
 import CardAdded from "../page/CardAdded";
 import WishlistAdded from "../page/WishlistAdded";
 import Statistics from "../page/Statistics";
+import ErrorPage from "../page/ErrorPage";
 
 const routers = createBrowserRouter([
   {
     path: "/",
     element: <MainLayout />,
+    errorElement: <ErrorPage />,
     loader: () => fetch("../GadgetHeaven.json"),
     children: [
       {
