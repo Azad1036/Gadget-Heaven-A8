@@ -44,7 +44,7 @@ const Navber = ({ value, wish }) => {
           state && "bg-[#9538E2]"
         }  max-w-[96%] mx-auto rounded-2xl mt-5 mb-4`}
       >
-        <div className="navbar px-10 pt-5">
+        <div className="navbar lg:px-10 md:px-5 px-2 pt-5">
           <div className="navbar-start">
             <div className="dropdown">
               <div
@@ -78,7 +78,14 @@ const Navber = ({ value, wish }) => {
                 {links}
               </ul>
             </div>
-            <Link to={"/"} className={state ? "text-white text-xl" : "text-black text-xl"}>
+            <Link
+              to={"/"}
+              className={
+                state
+                  ? "text-white md:text-xl text-sm"
+                  : "text-black md:text-xl text-sm"
+              }
+            >
               Gadget Heaven
             </Link>
           </div>

@@ -44,18 +44,18 @@ const GadgetDetails = () => {
   wishToCard(wishLength);
 
   return (
-    <div className="min-h-screen">
-      <div className="bg-[#9538E2] p-10 pb-28 relative mb-96">
-        <div className="flex justify-center items-center gap-3 flex-col text-white">
+    <div className="min-h-screen md:mb-34 lg:mb-0 mb-48">
+      <div className="bg-[#9538E2] md:p-10 p-6 md:pb-28 lg:mb-96 relative">
+        <div className="flex justify-center items-center md:gap-3 gap-2 flex-col text-white">
           <h1 className="font-bold text-2xl">Product Details</h1>
-          <p className="w-4xl text-center">
+          <p className="lg:w-4xl text-center">
             Explore the latest gadgets that will take your experience to the
             next level. From smart devices to the coolest accessories, we have
             it all!
           </p>
         </div>
-        <div className="flex justify-center ">
-          <div className="flex justify-center items-center absolute top-40">
+        <div className="flex justify-center  ">
+          <div className="flex justify-center items-center absolute lg:top-40">
             <div className="flex flex-row w-[800px] bg-white shadow-lg rounded-2xl overflow-hidden">
               {/* Image Placeholder */}
               <div className="w-1/3  flex justify-center items-center">

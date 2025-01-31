@@ -11,7 +11,7 @@ const Footer = () => {
         <hr className="text-black my-5" />
 
         {/* Footer Text */}
-        <div className="flex justify-around text-center">
+        <div className="md:flex md:flex-row flex-col  justify-around text-center">
           {/* Services Text */}
           <div>
             <h1 className="text-black font-bold">Services</h1>

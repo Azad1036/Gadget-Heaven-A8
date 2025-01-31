@@ -35,15 +35,16 @@ const DashBoard = () => {
         <title>Gadget Heaven || DashBoard Page</title>
       </Helmet>
       {/* Text */}
-      <div className="bg-[#9538E2] p-10">
-        <div className="flex justify-center items-center gap-3 flex-col text-white">
+      <div className="bg-[#9538E2] md:p-10 ">
+        <div className="flex justify-center items-center md:gap-3 gap-2 flex-col text-white">
           <h1 className="font-bold text-2xl">Dashboard</h1>
-          <p className="w-4xl text-center">
+          <p className="lg:w-4xl text-center">
             Explore the latest gadgets that will take your experience to the
             next level. From smart devices to the coolest accessories, we have
             it all!
           </p>
         </div>
+
         {/* Card link */}
         <div className="flex justify-center gap-4 mt-5">
           <NavLink

@@ -6,14 +6,14 @@ const Home = () => {
   const category = useLoaderData();
 
   return (
-    <div className="max-w-6xl mx-auto mt-72 mb-24">
+    <div className="lg:max-w-6xl w-[94%] mx-auto md:mt-72 mt-56 mb-24">
       <Helmet>
         <title>Gadget Heaven || Home Page</title>
       </Helmet>
-      <h1 className="text-4xl font-bold text-center">
+      <h1 className="md:text-4xl text-2xl font-bold text-center">
         Explore Cutting-Edge Gadgets
       </h1>
-      <div className="flex gap-5 mt-10">
+      <div className="md:flex gap-5 mt-10">
         <div>
           <Gadgets category={category}></Gadgets>
         </div>

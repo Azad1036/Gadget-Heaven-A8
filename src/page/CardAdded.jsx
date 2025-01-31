@@ -41,12 +41,12 @@ const CardAdded = () => {
   return (
     <div>
       {/* Card Price */}
-      <div className="flex justify-between my-5">
+      <div className="md:flex md:flex-row flex-col justify-between my-5">
         <div>
-          <p className="text-2xl font-bold">Cart</p>
+          <p className="md:text-2xl text-base font-bold">Cart</p>
         </div>
-        <div className="flex gap-5 items-center">
-          <h1 className="text-2xl font-bold mr-10">
+        <div className="md:flex md:flex-row flex-col gap-5 items-center">
+          <h1 className="md:text-2xl text-base  font-bold lg:mr-10 mr-2">
             Total cost: $ {totalValue}
           </h1>
           <button
