@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "category": "Al Product"
+  },
+  {
+    "id": 2,
+    "category": "Smartphones"
+  },
+  {
+    "id": 3,
+    "category": "Laptops"
+  },
+  {
+    "id": 4,
+    "category": "Tablets"
+  }
+]

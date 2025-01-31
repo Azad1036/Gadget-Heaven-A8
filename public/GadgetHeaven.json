@@ -1,0 +1,197 @@
+[
+  {
+    "product_id": "P001",
+    "product_title": "Apple iPhone 15 Pro Max",
+    "product_image": "https://i.ibb.co.com/Qcchhh8/Apple-i-Phone-15-Pro-Max.jpg",
+    "category": "Smartphones",
+    "price": 1299,
+    "description": "Experience the ultimate smartphone with the iPhone 15 Pro Max.",
+    "specification": [
+      "6.7-inch Super Retina XDR display",
+      "A17 Bionic chip",
+      "Triple-camera system (48MP Main, 12MP Telephoto, 12MP Ultrawide)",
+      "LiDAR Scanner",
+      "Up to 2TB storage"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P002",
+    "product_title": "Samsung Galaxy S23",
+    "product_image": "https://i.ibb.co.com/bb0bDCg/Samsung-Galaxy-S23-Ultra.jpg",
+    "category": "Smartphones",
+    "price": 1199,
+    "description": "Elevate your photography game with the Galaxy S23 Ultra.",
+    "specification": [
+      "6.8-inch Dynamic AMOLED 2X display",
+      "Snapdragon 8 Gen 2",
+      "200MP quad-camera setup",
+      "S Pen support",
+      "Up to 1TB storage"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "P003",
+    "product_title": "Dell XPS 15",
+    "product_image": "https://i.ibb.co.com/71mPxJf/Dell-XPS-15.jpg",
+    "category": "Laptops",
+    "price": 1799,
+    "description": "Powerful performance in a sleek design.",
+    "specification": [
+      "15.6-inch InfinityEdge 4K display",
+      "Intel Core i9 13th Gen",
+      "32GB RAM, 1TB SSD",
+      "NVIDIA GeForce RTX 4060"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P004",
+    "product_title": "Apple MacBook Pro 16",
+    "product_image": "https://i.ibb.co.com/m8PBX74/Apple-Mac-Book-Pro-16-inch.jpg",
+    "category": "Laptops",
+    "price": 2499,
+    "description": "For professionals who demand the best performance.",
+    "specification": [
+      "16.2-inch Liquid Retina XDR display",
+      "M2 Max chip",
+      "64GB RAM, 8TB SSD",
+      "Up to 21-hour battery life"
+    ],
+    "availability": true,
+    "rating": 4.9
+  },
+  {
+    "product_id": "P005",
+    "product_title": "Microsoft Surface Pro 9",
+    "product_image": "https://i.ibb.co.com/Zg4xQjv/Microsoft-Surface-Pro-9.jpg",
+    "category": "Tablets",
+    "price": 999,
+    "description": "A 2-in-1 tablet and laptop for ultimate flexibility.",
+    "specification": [
+      "13-inch PixelSense Flow display",
+      "Intel Core i7 12th Gen",
+      "16GB RAM, 512GB SSD",
+      "Pen support"
+    ],
+    "availability": true,
+    "rating": 4.6
+  },
+  {
+    "product_id": "P006",
+    "product_title": "Lenovo Tab P12 Pro",
+    "product_image": "https://i.ibb.co.com/h7j7ZB0/Lenovo-Tab-P12-Pro.jpg",
+    "category": "Tablets",
+    "price": 749,
+    "description": "A tablet designed for productivity and entertainment.",
+    "specification": [
+      "12.6-inch AMOLED display",
+      "Snapdragon 870 processor",
+      "6GB RAM, 128GB storage",
+      "Stylus included"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P007",
+    "product_title": "Xiaomi Redmi Note 13 Pro",
+    "product_image": "https://i.ibb.co.com/1JDpQ8H/Xiaomi-Redmi-Note-13-Pro.jpg",
+    "category": "Smartphones",
+    "price": 349,
+    "description": "Affordable performance for everyday use.",
+    "specification": [
+      "6.67-inch AMOLED display",
+      "Snapdragon 695 processor",
+      "108MP camera",
+      "5000mAh battery",
+      "Up to 256GB storage"
+    ],
+    "availability": true,
+    "rating": 4.4
+  },
+  {
+    "product_id": "P008",
+    "product_title": "Samsung Galaxy Tab S9",
+    "product_image": "https://i.ibb.co.com/dttThCV/Samsung-Galaxy-Tab-S9-Ultra.jpg",
+    "category": "Tablets",
+    "price": 1199,
+    "description": "A powerful Android tablet for all your needs.",
+    "specification": [
+      "14.6-inch Dynamic AMOLED 2X display",
+      "Snapdragon 8 Gen 2",
+      "16GB RAM, 512GB storage",
+      "S Pen included"
+    ],
+    "availability": true,
+    "rating": 4.8
+  },
+  {
+    "product_id": "P009",
+    "product_title": "Acer Swift 3",
+    "product_image": "https://i.ibb.co.com/vmvKSn6/Acer-Swift-3.jpg",
+    "category": "Laptops",
+    "price": 849,
+    "description": "A lightweight and budget-friendly laptop.",
+    "specification": [
+      "14-inch Full HD display",
+      "AMD Ryzen 7 5700U",
+      "16GB RAM, 512GB SSD",
+      "All-day battery life"
+    ],
+    "availability": true,
+    "rating": 4.5
+  },
+  {
+    "product_id": "P010",
+    "product_title": "Asus ZenBook Pro Duo",
+    "product_image": "https://i.ibb.co.com/LJ3RkvV/Asus-Zen-Book-Pro-Duo.jpg",
+    "category": "Laptops",
+    "price": 2199,
+    "description": "Dual-screen productivity for creative professionals.",
+    "specification": [
+      "15.6-inch OLED 4K display",
+      "Intel Core i9 13th Gen",
+      "32GB RAM, 1TB SSD",
+      "GeForce RTX 4070"
+    ],
+    "availability": true,
+    "rating": 4.7
+  },
+  {
+    "product_id": "P011",
+    "product_title": "Realme Pad X",
+    "product_image": "https://i.ibb.co.com/ZK78XW3/Realme-Pad-X.jpg",
+    "category": "Tablets",
+    "price": 349,
+    "description": "An affordable Android tablet with great features.",
+    "specification": [
+      "11-inch WUXGA+ display",
+      "Snapdragon 695",
+      "6GB RAM, 128GB storage",
+      "Quad speakers with Dolby Atmos"
+    ],
+    "availability": true,
+    "rating": 4.3
+  },
+  {
+    "product_id": "P012",
+    "product_title": "Google Pixel 7 Pro",
+    "product_image": "https://i.ibb.co.com/PWLTsgx/Google-Pixel-7-Pro.jpg",
+    "category": "Smartphones",
+    "price": 899,
+    "description": "The ultimate Google smartphone with advanced AI features.",
+    "specification": [
+      "6.7-inch LTPO OLED display",
+      "Google Tensor G2 chip",
+      "50MP triple-camera setup",
+      "5000mAh battery"
+    ],
+    "availability": true,
+    "rating": 4.8
+  }
+]
